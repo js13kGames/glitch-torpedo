@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - party
+  - arcade
 post: https://github.com/plissken2013es/glitch-torpedo-js13k2016/blob/master/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
